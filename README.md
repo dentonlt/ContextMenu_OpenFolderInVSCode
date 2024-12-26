@@ -7,6 +7,6 @@ Maybe this will save you some clicking/typing. For Windows (installed/tested on 
 Implements the advice posted at StackOverflow:
 https://stackoverflow.com/questions/20449316/how-add-context-menu-item-to-windows-explorer-for-folders
 
-In short, edit the reg file to provide your Windows 11 username. This is set by user, not machine.
+This reg file is set to operate on the user, not machine.
 
-Check the paths match your VSCode installation, of course.
+In short, edit the reg file to provide your Windows 11 username. Check the paths match your VSCode installation, of course!
