@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 "icon"="\"C:\\Users\\YOURUSERNAMEHERE\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\github-authentication\\media\\favicon.ico\""
 
 [HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\Open in VSCode\command]
-@="\"C:\\Users\\YOURUSERNAMEHERE\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"%1\""
+@="\"C:\\Users\\YOURUSERNAMEHERE\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"%V\""
 
 
 [HKEY_CURRENT_USER\Software\Classes\Directory\shell\Open in VSCode]
